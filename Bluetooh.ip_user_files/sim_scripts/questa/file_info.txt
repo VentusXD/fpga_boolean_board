@@ -1,0 +1,2 @@
+clock_div.vhd,vhdl,xil_defaultlib,../../../../../../../../../Desktop/Boolean Board/Practicas/Bluetooh/Bluetooh.srcs/sources_1/new/clock_div.vhd,incdir="D:/Software/2025.2/Vivado/data/rsb/busdef"
+uart_tx.vhd,vhdl,xil_defaultlib,../../../../../../../../../Desktop/Boolean Board/Practicas/Bluetooh/Bluetooh.srcs/sources_1/new/uart_tx.vhd,incdir="D:/Software/2025.2/Vivado/data/rsb/busdef"

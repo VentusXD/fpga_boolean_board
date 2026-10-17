@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2  -L xil_defaultlib -L secureip --snapshot uart_tx xil_defaultlib.uart_tx -log elaborate.log

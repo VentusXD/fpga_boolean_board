@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Bluetooh.gen/sources_1/ip/c_counter_binary_0/sim/c_counter_binary_0.vhd" \
+"../../../../Bluetooh.srcs/sim_1/new/cnt_bin_test.vhd" \
+
+# Do not sort compile order
+nosort
